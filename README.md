@@ -4,11 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Senior IT Student
 -----------------
 
-I've been coding since high school when I was taking IGCSE Computer Science. On my sophomore year, I had an opportunity to dadjaodadjad
+I've been coding since high school when I was taking IGCSE Computer Science. On my sophomore year, I had an opportunity to work as Android Developer at LINE MAN Wongnai. I'm currently exposing myself to other aspects in software development like Backend, DevOps, and Data pipeline.
 
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [cartoonabe@gmail.com](mailto:cartoonabe@gmail.com)
-* 🧠  I'm learning Kafka, Websocket, Go
 
 ### Skills
 
