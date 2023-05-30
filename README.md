@@ -6,8 +6,8 @@ Senior IT Student
 
 I've been coding since high school when I was taking IGCSE Computer Science.
 
-Ex Software Engineer, Android - Intern @ LINE MAN Wongnai
-Currently Software Engineer, Infrastructure  - Intern @ Agoda
+* Ex Software Engineer, Android - Intern @ LINE MAN Wongnai
+* Currently Software Engineer, Infrastructure  - Intern @ Agoda
 
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [cartoonabe@gmail.com](mailto:cartoonabe@gmail.com)
