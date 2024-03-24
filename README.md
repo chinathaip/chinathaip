@@ -8,6 +8,7 @@ I've been coding since high school when I was taking IGCSE Computer Science.
 
 * Ex Software Engineer, Android - Intern @ LINE MAN Wongnai
 * Ex Software Engineer, Infrastructure  - Intern @ Agoda
+* Upcoming DevOps Engineer - Intern @ Agoda (July 2024)
 * Currently looking for opportunities + taking care of backend and platform for [Stamford Syntax Club](https://github.com/stamford-syntax-club) in the mean time
 
 
@@ -30,7 +31,6 @@ I've been coding since high school when I was taking IGCSE Computer Science.
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 </p>
 
 
