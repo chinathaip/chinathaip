@@ -14,7 +14,7 @@ I've been coding since high school when I was taking IGCSE Computer Science.
 
 🌍  I'm based in Bangkok, Thailand
 
-✉️  You can contact me at [cartoonabe@gmail.com](mailto:cartoonabe@gmail.com)
+✉️  You can contact me at [chinathaip@proton.me](mailto:chinathaip@proton.me)
 
 ### Skills
 
