@@ -8,8 +8,9 @@ I've been coding since high school when I was taking IGCSE Computer Science.
 
 * Ex Software Engineer, Android - Intern @ LINE MAN Wongnai
 * Ex Software Engineer, Infrastructure  - Intern @ Agoda
-* Upcoming DevOps Engineer - Intern @ Agoda (July 2024)
-* Currently looking for opportunities + taking care of backend and platform for [Stamford Syntax Club](https://github.com/stamford-syntax-club) in the mean time
+* Currently Software Engineer Intern @ Agoda
+* Upcoming Associate Software Engineer @ Agoda (November 2024)
+* Maintaining backend and platform for [Stamford Syntax Club](https://github.com/stamford-syntax-club)
 
 
 🌍  I'm based in Bangkok, Thailand
