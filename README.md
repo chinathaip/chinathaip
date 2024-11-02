@@ -8,7 +8,7 @@ I've been coding since high school when I was taking IGCSE Computer Science.
 
 * Ex Software Engineer, Android - Intern @ LINE MAN Wongnai
 * Ex Software Engineer, Infrastructure  - Intern @ Agoda
-* Ex Software Engineer, SRE - Intern, SRE @ Agoda
+* Ex Software Engineer, SRE - Intern @ Agoda
 * Currently Associate Software Engineer, Infrastructure @ Agoda
 * Maintaining backend and platform for [Stamford Syntax Club](https://github.com/stamford-syntax-club)
 
